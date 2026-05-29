@@ -1,0 +1,6 @@
+{
+  "name": "Weather Watch",
+  "description": "A modern, sleek, and minimalist watch app featuring an atmospheric digital clock, dynamic shifting weather backgrounds, and an elegant battery status bar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
